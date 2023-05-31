@@ -1,0 +1,22 @@
+.comments-container {
+    margin-top: 2rem;
+  }
+  
+  .comments-card {
+    padding: 1rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .comment {
+    margin-bottom: 1rem;
+  }
+  
+  .post-comment {
+    margin-top: 1rem;
+  }
+  
+  .post-comment button {
+    margin-top: 1rem;
+  }
+  
